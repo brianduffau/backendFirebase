@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "364933209715",
+    "project_id": "mascoteando-a663d",
+    "storage_bucket": "mascoteando-a663d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364933209715:android:b5435ba5a8d2ed71ddd406",
+        "android_client_info": {
+          "package_name": "com.example.proyectofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364933209715-hris5v1f7osho07524mo8opr8okaqq90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectofinal",
+            "certificate_hash": "9285204455b0f9156f3e86ba0fd39c7d1efd5b85"
+          }
+        },
+        {
+          "client_id": "364933209715-ed0ndud2d4ehq925lm18u2nloa5cb28b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5genO9QSpgSjZaD6mnqgC737IiEr_qWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364933209715-ed0ndud2d4ehq925lm18u2nloa5cb28b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
